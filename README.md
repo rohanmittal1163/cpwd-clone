@@ -5,7 +5,7 @@
 This frontend project uses HTML, CSS, TailwindCSS, Javascript, Jquery, swiperjs. 
 The project is clone to a single page of `https://cpwd.gov.in/`
 
-# ⚜ DEMO
+# ⚜ DEMO -- https://cpwd1163.netlify.app/
 ![image](https://user-images.githubusercontent.com/97821844/213641954-97ea7e89-6b5f-4187-8eb7-6ccc1c1ae02a.png)
 ![image](https://user-images.githubusercontent.com/97821844/213642030-6b1251ec-9b74-4459-afe6-35235ad24027.png)
 ![image](https://user-images.githubusercontent.com/97821844/213642109-e961f4a2-a10e-4c24-bd85-331c8dbf9a6d.png)
